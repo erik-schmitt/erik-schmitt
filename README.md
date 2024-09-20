@@ -33,7 +33,9 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   ### Application to parse and standardize credit union customer names
   - .NET
 
-  - ## Education
+## Education
+  - B.S. in Computer Engineering at University of Illinois Urbana-Champaign
+  - Campus Honors Program
 ### Languages
 - Java
 - C++
@@ -44,3 +46,4 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
 ### Coursework
 - High-Performance Computing
 - Real-Time Systems
+- OpenGL Computer Graphics
