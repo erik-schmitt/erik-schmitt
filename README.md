@@ -12,6 +12,7 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
  - Perl
  - RISC Assembly
  - VHDL
+ - Unix
 
 ## LKCS
 
@@ -21,6 +22,7 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - Groovy
   - MicroStrategy
   - ASP, HTML, CSS
+  - Git
 
   ### Automated file processing for credit unions
   - Linux
@@ -29,9 +31,12 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - Perl
   - Groovy
   - Quadient
+  - GitHub
 
   ### Application to parse and standardize credit union customer names
   - .NET
+  - MS SQL
+  - Git
 
 ## Education
   - B.S. in Computer Engineering at University of Illinois Urbana-Champaign
