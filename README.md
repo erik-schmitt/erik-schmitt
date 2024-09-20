@@ -49,6 +49,6 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
 - VHDL
 - Fortran
 ### Coursework
-- High-Performance Computing
+- High-Performance Computing (OpenMP, Fortran)
 - Real-Time Systems
-- OpenGL Computer Graphics
+- C++/OpenGL Computer Graphics
