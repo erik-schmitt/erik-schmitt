@@ -6,14 +6,6 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
 
 # Career
 
-## IBM
-
- ### System Simulation and Verfication of POWER hardware
- - Perl
- - RISC Assembly
- - VHDL
- - Unix
-
 ## LKCS
 
   ### ETL design and development, report design and creation
@@ -37,7 +29,15 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - .NET
   - MS SQL
   - Git
+  - 
+## IBM
 
+ ### System Simulation and Verfication of POWER hardware
+ - Perl
+ - RISC Assembly
+ - VHDL
+ - Unix
+   
 ## Education
   - B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - Campus Honors Program
