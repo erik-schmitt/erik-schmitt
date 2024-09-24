@@ -25,11 +25,11 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - Quadient
   - GitHub
 
-  ### Application to parse and standardize credit union customer names
+  ### Application to parse and standardize credit union member names
   - .NET
   - MS SQL
   - Git
-  - 
+
 ## IBM
 
  ### System Simulation and Verfication of POWER hardware
