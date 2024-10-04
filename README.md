@@ -32,7 +32,7 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
 
 ## IBM
 
- ### System Simulation and Verification of POWER microprocessors
+ ### Logic Simulation and Verification of POWER microprocessors
  - Perl
  - RISC Assembly
  - VHDL
