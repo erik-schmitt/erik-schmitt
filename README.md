@@ -25,14 +25,14 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - Quadient
   - GitHub
 
-  ### Application to parse and standardize credit union member names
-  - .NET
+  ### Wrote desktop application to parse and standardize credit union member names
+  - Visual Basic .NET
   - MS SQL
   - Git
 
 ## IBM
 
- ### System Simulation and Verfication of POWER hardware
+ ### System Simulation and Verification of POWER microprocessors
  - Perl
  - RISC Assembly
  - VHDL
@@ -43,12 +43,14 @@ B.S. in Computer Engineering at University of Illinois Urbana-Champaign
   - Campus Honors Program
 ### Languages
 - Java
+- OpenGL
 - C++
 - x86 Assembly
-- OpenGL
 - VHDL
 - Fortran
 ### Coursework
-- High-Performance Computing (OpenMP, Fortran)
+- High-Performance Computing (Parallel Programming using OpenMP and MPI in Fortran)
 - Real-Time Systems
 - C++/OpenGL Computer Graphics
+- Computer Architecture
+- Operating Systems Design
